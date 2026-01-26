@@ -161,7 +161,7 @@
     <td>Full Functional Weather App Built With FLutter and Provider</td>
     <td>Flutter • REST API • Provider • Hive • Animation • flutter_map</td>
     <td>
-      <a href="">GitHub</a>
+      <a href="https://github.com/Cisco0xf/SkyTrack-Weather-App.git">GitHub</a>
     </td>
   </tr>
   <tr>
