@@ -35,9 +35,38 @@
 
 <br/>
 
+
+## 📊 GitHub Stats
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cisco0xf&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</div>
+
+<br/>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco0xf&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
+<br/>
+--> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cisco0xf&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco0xf&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+
+
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cisco0xf&show_icons=true&theme=dark&hide_border=true)-->
+
+<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cisco0xf&theme=dark" alt="Total Contributions">
+</p>
+
+
 ## 🛠️ Tech Stack
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mahmoud-nagy-dev/portfolio-assets/main/my_skills/dart.webp" width="80" title="Dart" hspace="10" vspace="10">
@@ -162,28 +191,6 @@
 
 <br/>
 
-
-
-## 📊 GitHub Stats
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cisco0xf&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-</div>
-
-<br/>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco0xf&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
-
-<br/>
---> 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cisco0xf&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco0xf&layout=compact&theme=dark" alt="Top Languages">
-</p>
 
 
 ## 📬 Let's Connect
