@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mahmoud;Flutter+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mahmoud;Flutter+and+Dart+Developer+%F0%9F%9A%80;Mobile+App+Builder" alt="Typing SVG" />
 
   <br/>
 
@@ -27,11 +27,15 @@
   <a href="https://stackoverflow.com/users/23598383/mahmoud-al-shehyby">
     <img src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
+ 
+  <a href="https://drive.google.com/file/d/1iCLG5VTrw0cWnfBTpbKShPu5xm7Wi00S/view">
+  <img src="https://img.shields.io/badge/_Resume-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+</a>
   <a href="mailto:mahmoudalshehyby@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
 </div>
-
 
 <br/>
 
