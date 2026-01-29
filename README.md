@@ -56,13 +56,14 @@
 --> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cisco0xf&show_icons=true&theme=dark" alt="GitHub Stats">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Cisco0xf&show_icons=true&theme=dark" alt="GitHub Stats"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco0xf&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
-
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cisco0xf&show_icons=true&theme=dark&hide_border=true)-->
+<!--
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cisco0xf&theme=dark)
+![GitHub User's stars](https://img.shields.io/github/stars/Cisco0xf?style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cisco0xf&show_icons=true&theme=dark&hide_border=true)-->
 
 <p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cisco0xf&theme=dark" alt="Total Contributions">
