@@ -226,6 +226,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cisco0xf&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Cisco0xf" />
+  <img src="https://img.shields.io/github/stars/Cisco0xf?style=social" alt="GitHub Stars">
 </p>
 
 <picture>
